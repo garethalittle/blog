@@ -1,3 +1,4 @@
 ---
-title: test
+layout: post
+title: Blogging Like a Hacker
 ---
